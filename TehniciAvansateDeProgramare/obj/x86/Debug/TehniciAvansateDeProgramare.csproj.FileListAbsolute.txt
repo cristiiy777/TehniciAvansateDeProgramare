@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\obj\x86\Debug\TehniciAvansateDeProgramare.Examen_1.resources
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\obj\x86\Debug\TehniciAvansateDeProgramare.Examen_2_1.resources
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\obj\x86\Debug\TehniciAvansateDeProgramare.Examen_2_2.resources
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\obj\x86\Debug\TehniciAvansateDeProgramare.Examen_3_1.resources
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\obj\x86\Debug\TehniciAvansateDeProgramare.Examen_3_2.resources
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\obj\x86\Debug\TehniciAvansateDeProgramare.MeniuProiect.resources
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\obj\x86\Debug\TehniciAvansateDeProgramare.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\obj\x86\Debug\TehniciAvansateDeProgramare.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\bin\Debug\TehniciAvansateDeProgramare.exe.config
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\bin\Debug\TAP_examen_1.accdb
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\bin\Debug\TAP_examen_2.accdb
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\bin\Debug\TehniciAvansateDeProgramare.exe
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\bin\Debug\TehniciAvansateDeProgramare.pdb
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\obj\x86\Debug\TehniciAvansateDeProgramare.exe
+C:\Users\Lenovo\Documents\GitHub\TehniciAvansateDeProgramare\TehniciAvansateDeProgramare\obj\x86\Debug\TehniciAvansateDeProgramare.pdb
